@@ -1,0 +1,50 @@
+striver
+stiver 
+code with harry
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+https://www.netlify.com/
+
+clone e-commerce website
+login, sign up, add-to card, payment gateway, 
+whatapps clone 
+chatting engine
+
+2 - 3 project
+
+
+delete skill AWS (un-necessary thinks)
+
+
+<ul>
+<ol>
+
+<form>
+<div id='' class='' textarea=''></div>
+<button></button>
+
+</form>
+
+react(w3school.com)
+react flux
+hook
+route
+redux
+
+node.js(code with harry)
+Promises
+Await
+Async
+Callback
+
+-----for hosting-----
+cyclick
+heroku
+render.com
+
+
+------TCS----
+1. TCS Smart Hiring
+2. TCS NQT - 3.6 lakhs
+3. TCS Digital - 7.6 lakhs
+4. TCS Inovator - 12 lakhs(Prime)
+
